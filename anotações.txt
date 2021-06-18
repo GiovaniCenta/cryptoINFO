@@ -1,0 +1,4 @@
+nomics : api grátis pra buscar os preços
+commander: permite uma sintaxe bonita no terminal pra usar os comandos e tal
+inquire: vai ser usado pra requisitar do usuario a API key
+configstore: pertmite mudar os arquivos de configuração facilmente
